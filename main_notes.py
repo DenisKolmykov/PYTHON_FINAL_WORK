@@ -19,7 +19,6 @@ import datetime
 import json
 
 
-
 class Note:
   def __init__(
     self,
@@ -314,5 +313,5 @@ def sample_from_date(notes):
   print(f'----ПОИСК ЗАВЕРШЕН---НА ДАТУ {date_str} НАЙДЕНО {count} заметок----\n')
 
 
-#----ОСНОВНОЙ КОД ПРОГРАММЫ-------------------
+#----ОСНОВНОЙ КОД ПРОГРАММЫ-----------
 main_menu()
