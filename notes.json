@@ -1,0 +1,28 @@
+{
+    "notes": [
+        {
+            "id": "2",
+            "create_date": "10.07.2023 12:04:14",
+            "title": "Заметка 2",
+            "content": "Привет!"
+        },
+        {
+            "id": "3",
+            "create_date": "15.07.2023 12:12:20",
+            "title": "note 3",
+            "content": "this is new note"
+        },
+        {
+            "id": "6",
+            "create_date": "20.07.2023 12:29:15",
+            "title": "next note",
+            "content": "bla-bla-bla"
+        },
+        {
+            "id": "4",
+            "create_date": "20.07.2023 13:05:29",
+            "title": "Note #4",
+            "content": "edited text"
+        }
+    ]
+}
